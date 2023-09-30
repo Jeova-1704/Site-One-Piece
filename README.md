@@ -1,2 +1,3 @@
 # Site-One-Piece
-Site de one piece desenvolvido para colocar em prática os meus conhecimentos me HTML, CSS e JS.
+
+Para acessa o site: https://jeova-1704.github.io/Site-One-Piece/
